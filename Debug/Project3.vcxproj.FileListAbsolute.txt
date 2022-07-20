@@ -1,0 +1,4 @@
+C:\Users\Sylvia\Desktop\Project3\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\Sylvia\Desktop\Project3\Debug\Project3.MyForm.resources
+C:\Users\Sylvia\Desktop\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\Sylvia\Desktop\Project3\Debug\Project3.exe
